@@ -1,0 +1,20 @@
+# Binaries
+/bin/
+*.exe
+*.test
+*.out
+
+# Coverage
+coverage.*
+
+# Go workspace
+go.work
+go.work.sum
+
+# Environment and secrets
+.env
+*.pem
+
+# Editor and OS
+.idea/
+.DS_Store
